@@ -5,3 +5,6 @@ sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install kodi
 sudo apt-get install kodi-pvr-tvheadend-hts
+sudo cp media/* /usr/share/kodi/media/
+sudo cp textures/Textures.xbt /usr/share/kodi/addons/skin.estuary/media/
+sudo cp pvr/pvr.hts/settings.xml ~/.kodi/userdata/addon_data/pvr.hts/
