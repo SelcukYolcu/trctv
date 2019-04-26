@@ -9,3 +9,4 @@ mkdir -p ~/.kodi/userdata/addon_data/pvr.hts
 sudo cp media/* /usr/share/kodi/media/
 sudo cp textures/Textures.xbt /usr/share/kodi/addons/skin.estuary/media/
 sudo cp pvr/pvr.hts/settings.xml ~/.kodi/userdata/addon_data/pvr.hts/
+echo "alias trctv='kodi'" >> ~/.bashrc

@@ -7,7 +7,7 @@ Installation instruction:
 	2- Type:
 	   cd path/to/trctv && ./setup.sh
 	3- After succesful installation, Type:
-	   kodi
+	   trctv
 	4- Enjoy
 
 Turcom Technology
