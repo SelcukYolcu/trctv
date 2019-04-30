@@ -6,9 +6,15 @@ Installation instruction:
 	1- Open Ubuntu Terminal
 	2- Type:
 	   cd path/to/trctv && ./setup.sh
-	3- After succesful installation, Type:
+	3- After succesful installation, 
+	   Open a new terminal,
+	   Type:
 	   trctv
-	4- Enjoy
+	4- Click below link to enable TVheadend,
+	   On Left bar,
+	   Add-ons -> My add-ons -> PVR clients -> Tvheadend HTSP Client -> Enable
+	   And ESC for Home Page
+	ENJOY!
 
 Turcom Technology
 Software Team
